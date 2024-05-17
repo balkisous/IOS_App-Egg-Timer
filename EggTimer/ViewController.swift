@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     let softTime = 5;
     let mediumTime = 8;
     let hardTime = 12;
-    let eggTime = ["Soft" : 3, "Medium" : 4, "Hard" : 7]
+    let eggTime = ["Soft" : 5, "Medium" : 8, "Hard" : 12]
     var secondsPassed = 0;
     var totalTime = 0;
     var timer =  Timer()
