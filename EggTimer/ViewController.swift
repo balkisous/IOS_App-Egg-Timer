@@ -73,7 +73,6 @@ class ViewController: UIViewController {
         } else {
             print("Sound file doesn't found")
         }*/
-        print("J'AI FINI MON CACA")
     }
     
 }
