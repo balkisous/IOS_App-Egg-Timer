@@ -4,7 +4,7 @@
 
 ## Goal's Project 🎯
 
-In this module it was a mix of tutorials and challenges. Most importantly, it's aim me to get comfortable with looking up how to do something I have never done before. In certain places of this module, I'll need to refere in the Xylophone module and use some Google search, StackOverflow and Apple Documentation to make my code do what I want it to. But there are also other parts where I learn through new Swift programming concepts. 
+In this module it was a mix of tutorials and challenges. Most importantly, it has aim me to get comfortable with looking up how to do something I have never done before. In certain places of this module, I'll need to refere in the Xylophone module and use some Google search, StackOverflow and Apple Documentation to make my code do what I want it to. But there are also other parts where I learn through new Swift programming concepts. 
 
 ## What I create 🧱
 
