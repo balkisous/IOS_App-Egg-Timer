@@ -20,6 +20,7 @@ I build an app of a beautiful egg timer app to boil your eggs to perfection depe
 * How to use the ProgressView
 
 ## Excepted View
+(I shortened the time for the video)
 https://github.com/balkisous/IOS_App-Egg-Timer/assets/76943138/bb241e5d-45cc-4a1b-b522-53e16eef3409
 
 
