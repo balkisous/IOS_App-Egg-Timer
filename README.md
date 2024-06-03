@@ -21,7 +21,10 @@ I build an app of a beautiful egg timer app to boil your eggs to perfection depe
 
 ## Excepted View
 (I shortened the time for the video)
-https://github.com/balkisous/IOS_App-Egg-Timer/assets/76943138/bb241e5d-45cc-4a1b-b522-53e16eef3409
+
+https://github.com/balkisous/IOS_App-Egg-Timer/assets/76943138/8a87d832-5257-4a97-8bce-1750000287fa
+
+
 
 
 >I made this project with App Brewery's Complete App Development Bootcamp.
