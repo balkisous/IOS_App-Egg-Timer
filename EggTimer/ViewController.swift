@@ -29,11 +29,10 @@ class ViewController: UIViewController {
     @IBOutlet weak var ProgressTimeBar: UIProgressView!
 
     @IBAction func Egg(_ sender: UIButton) {
-        print("egg button haha and name is \(sender.currentTitle!)")
 
         timer.invalidate();
         let hardness = sender.currentTitle!
-        totalTime = eggTime[hardness]! //* 60;
+        totalTime = eggTime[hardness]! * 60;
         timer = Timer.scheduledTimer(timeInterval: 1.0, // Time interval in seconds
                                      target: self,
                                      selector: #selector(updateTimer),
