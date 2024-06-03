@@ -19,6 +19,9 @@ I build an app of a beautiful egg timer app to boil your eggs to perfection depe
 * Functions with outputs
 * How to use the ProgressView
 
+## Excepted View
+https://github.com/balkisous/IOS_App-Egg-Timer/assets/76943138/bb241e5d-45cc-4a1b-b522-53e16eef3409
+
 
 >I made this project with App Brewery's Complete App Development Bootcamp.
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
